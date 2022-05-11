@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vtTYbHWDING6RW1Excd6oTOy7HT8w164EwCGPjr9ZTs/wNybKHQYIKxKIOUvbukTd7XcIU/Z1sa1QOObFzFdLA==",
+  "dgSpecHash": "6bmM9DJUcvUg5imc2kxA1a/0YnIx98TDAz7sCogwa4Rbtd8mZGRj/kFRtzu8BHxWu4vumrh4HwGuS1VFQbq+dA==",
   "success": true,
-  "projectFilePath": "C:\\users\\eric\\desktop\\.netcore6projects\\Cards\\cards.api\\Cards.API.csproj",
+  "projectFilePath": "C:\\users\\eric\\desktop\\.netcore6projects\\cards\\cards.api\\Cards.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ERIC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ERIC\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

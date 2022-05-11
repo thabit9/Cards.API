@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\users\\eric\\desktop\\.netcore6projects\\Cards\\cards.api\\Cards.API.csproj": {}
+    "C:\\users\\eric\\desktop\\.netcore6projects\\cards\\cards.api\\Cards.API.csproj": {}
   },
   "projects": {
-    "C:\\users\\eric\\desktop\\.netcore6projects\\Cards\\cards.api\\Cards.API.csproj": {
+    "C:\\users\\eric\\desktop\\.netcore6projects\\cards\\cards.api\\Cards.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\users\\eric\\desktop\\.netcore6projects\\Cards\\cards.api\\Cards.API.csproj",
+        "projectUniqueName": "C:\\users\\eric\\desktop\\.netcore6projects\\cards\\cards.api\\Cards.API.csproj",
         "projectName": "Cards.API",
-        "projectPath": "C:\\users\\eric\\desktop\\.netcore6projects\\Cards\\cards.api\\Cards.API.csproj",
+        "projectPath": "C:\\users\\eric\\desktop\\.netcore6projects\\cards\\cards.api\\Cards.API.csproj",
         "packagesPath": "C:\\Users\\ERIC\\.nuget\\packages\\",
-        "outputPath": "C:\\users\\eric\\desktop\\.netcore6projects\\Cards\\cards.api\\obj\\",
+        "outputPath": "C:\\users\\eric\\desktop\\.netcore6projects\\cards\\cards.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
